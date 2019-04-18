@@ -1,0 +1,5 @@
+spark-gadb/inferno_output_all_GADB/ENCODE/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/ENCODE/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/FANTOM5/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/FANTOM5/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/Repeats/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/Repeats/concat_bedtools_out.txt	mismatch
+spark-gadb/inferno_output_all_GADB/DASHR2/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/DASHR2/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/TargetScan_v7p2/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/TargetScan_v7p2/concat_bedtools_out.txt	match

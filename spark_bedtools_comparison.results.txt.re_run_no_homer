@@ -1,0 +1,16 @@
+spark-gadb/inferno_output_all_GADB/HIPPIE2/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/HIPPIE2/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/REFERENCE/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/REFERENCE/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/DASHR2_small_RNA_Genes/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/DASHR2_small_RNA_Genes/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/RefSeq_Gene_model/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/RefSeq_Gene_model/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/Ensembl_Gene_model/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/Ensembl_Gene_model/concat_bedtools_out.txt	mismatch
+spark-gadb/inferno_output_all_GADB/UCSC_Gene_model/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/UCSC_Gene_model/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/GTEx_v6/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/GTEx_v6/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/ROADMAP/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/ROADMAP/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/FactorBook/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/FactorBook/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/Inferno_genomic_partition/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/Inferno_genomic_partition/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/ROADMAP_Enhancers/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/ROADMAP_Enhancers/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/ENCODE/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/ENCODE/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/FANTOM5/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/FANTOM5/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/Repeats/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/Repeats/concat_bedtools_out.txt	mismatch
+spark-gadb/inferno_output_all_GADB/DASHR2/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/DASHR2/concat_bedtools_out.txt	match
+spark-gadb/inferno_output_all_GADB/TargetScan_v7p2/track_list/../overlaps/bed/out.bed	/mnt/data/bedtools_out_IGAP_all_GADB/TargetScan_v7p2/concat_bedtools_out.txt	match

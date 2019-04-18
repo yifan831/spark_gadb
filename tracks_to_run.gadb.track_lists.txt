@@ -1,0 +1,17 @@
+spark-gadb/inferno_output_all_GADB/HIPPIE2/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/Homer/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/REFERENCE/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/DASHR2_small_RNA_Genes/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/RefSeq_Gene_model/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/Ensembl_Gene_model/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/UCSC_Gene_model/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/GTEx_v6/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/ROADMAP/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/FactorBook/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/Inferno_genomic_partition/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/ROADMAP_Enhancers/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/ENCODE/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/FANTOM5/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/Repeats/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/DASHR2/track_list/out.tsv
+spark-gadb/inferno_output_all_GADB/TargetScan_v7p2/track_list/out.tsv
